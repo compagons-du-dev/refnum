@@ -9,7 +9,7 @@
  * @since Twenty Thirteen 1.0
  */
 ?>
-
+	<div class="zakk">
 		</div><!-- #main -->
 		<footer id="colophon" class="site-footer" role="contentinfo">
 			<?php get_sidebar( 'main' ); ?>
@@ -20,7 +20,7 @@
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
 	</div><!-- #page -->
-
+	</div>
 	<?php wp_footer(); ?>
 </body>
 </html>
